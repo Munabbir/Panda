@@ -1,0 +1,11 @@
+.carousel-item{
+    background-color: rgb(255, 228, 233);
+}
+.Shoes:hover{
+    background-color: rgba(194, 35, 61, 0.438);
+    transition: 1s;
+}
+.Bag:hover{
+    background-color: rgba(122, 46, 46, 0.137);
+    transition: 1s;
+}
